@@ -1,0 +1,20 @@
+{
+    "drinks":[
+       {
+          "drinkType":"cocktail",
+          "drinkName":"sunset",
+          "drinkPrice":300
+       },
+       {
+          "drinkType":"mocktail",
+          "drinkName":"blue moon",
+          "drinkPrice":400
+       },
+       {
+          "drinkType":"cocktail",
+          "drinkName":"longIsland",
+          "drinkPrice":500
+       }
+    ]
+ }
+ 

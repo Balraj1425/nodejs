@@ -1,0 +1,23 @@
+{"foodmenu": [
+    {
+      "dishType": "Veg",
+      "dishName": "Panner Tikka",
+      "dishPrice":  200
+    },
+    {
+      "dishType": "Veg",
+      "dishName": "Panner Tikka Masala",
+      "dishPrice": 220
+    },
+    {
+      "dishType": "Non-veg",
+      "dishName": "Chicken Curry",
+      "dishPrice": 300
+    },
+    {
+      "dishType":"Veg",
+      "dishName": "Panner Bhurji",
+      "dishPrice": 180
+    }
+
+  ]}
